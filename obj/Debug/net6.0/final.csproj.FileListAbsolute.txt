@@ -1,0 +1,15 @@
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.csproj.AssemblyReference.cache
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.AssemblyInfoInputs.cache
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.AssemblyInfo.cs
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.csproj.CoreCompileInputs.cache
+/Users/annageneralova/Desktop/Csharp/final/bin/Debug/net6.0/final
+/Users/annageneralova/Desktop/Csharp/final/bin/Debug/net6.0/final.deps.json
+/Users/annageneralova/Desktop/Csharp/final/bin/Debug/net6.0/final.runtimeconfig.json
+/Users/annageneralova/Desktop/Csharp/final/bin/Debug/net6.0/final.dll
+/Users/annageneralova/Desktop/Csharp/final/bin/Debug/net6.0/final.pdb
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.dll
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/refint/final.dll
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.pdb
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/final.genruntimeconfig.cache
+/Users/annageneralova/Desktop/Csharp/final/obj/Debug/net6.0/ref/final.dll
