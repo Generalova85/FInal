@@ -2,7 +2,6 @@
 
 
 string[] array = {"33", "mamamia", "how", "name", "is", ":)"};
-//string[] array1 = new string[array.Length];
 
 for (int i = 0; i < array.Length; i++)
 {
